@@ -5,6 +5,9 @@
   flex-wrap: wrap;
   padding-top: 30px;
 }
+html, body {
+  height: 100%; 
+}
 
 .gotoicon {
   width: 125px;
